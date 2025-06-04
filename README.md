@@ -1,4 +1,4 @@
-# 模式识别与预测-实验（以Python实现）
+# 机器学习与数据挖掘-实验（基于Python）
 
 ## 实验一：[Python快速入门](./Lab1_PythonLearning/PythonLearning.md)
 
